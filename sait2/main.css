@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+body {
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(chr.png);
+  background-attachment: fixed;
+}
+
+
+aside#mam{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  background: #ca8fd9;
+  padding: 10px;
+  width: 300px;
+  height: 290px;
+  font-size: 1.1em;
+  font-family: 'Roboto';
+  margin-left: 8%;
+  border-radius: 30px;
+  margin-top: 10%
+}
+
+aside#pap{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  background: #849fe3;
+  padding: 10px;
+  width: 300px;
+  height: 290px;
+  font-size: 1.1em;
+  font-family: 'Roboto';
+  margin-left: 39%;
+  border-radius: 30px;
+  margin-top: -21.7%
+}
+
+aside#nek{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  background: #1eebbb;
+  padding: 10px;
+  width: 300px;
+  height: 290px;
+  font-size: 1.1em;
+  font-family: 'Roboto';
+  margin-left: 70%;
+  border-radius: 30px;
+  margin-top: -21.7%
+}
+
+aside#ded{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  padding: 50px;
+  border-radius: 15px;
+  background: #52abeb;
+  height: 230px;
+  font-size: 2em;
+  font-family: 'Caveat';
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 10%
+}
+
+aside#dod{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  padding: 50px;
+  border-radius: 15px;
+  background: #52abeb;
+  height: 230px;
+  font-size: 2em;
+  font-family: 'Caveat';
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 4%
+}
+
+aside#dad{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  padding: 50px;
+  border-radius: 15px;
+  background: #52abeb;
+  height: 200px;
+  font-size: 2em;
+  font-family: 'Caveat';
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 4%
+}
+
+hr{
+  height: 2px;
+  border: none;
+  background-color: white;
+  margin-top: 5.5%
+}
+
+
+aside#zag{
+  padding: 0px;
+  background: #52abeb;
+  height: 80px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 2.7em;
+  font-family: 'Roboto';
+}
+
+hr#a{
+  height: 0.5px;
+}
+
+h1#zas{
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  font-family: 'Caveat';
+  font-size: 1.3em;
+}
+
+p#cont{
+  font-family: 'Roboto';
+  font-size: 1.1em;
+  color: white;
+}
+
+p#main{
+  font-family: 'Roboto';
+  font-size: 1.2em;
+  color: white;
+}
+
+p#sek{
+  font-family: 'Roboto';
+  font-size: 0.6em;
+  color: white;
+}
+
+
+p#thr{
+  font-family: 'Roboto';
+  font-size: 0.6em;
+  color: white;
+}
+
+p#chet{
+  font-family: 'Roboto';
+  font-size: 0.9em;
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+p#p{
+  margin-top: 2%;
+  padding: 1px
+}
+
+p#a{
+  margin-top: 2%;
+  padding: 1px
+}
+
+p#b{
+  margin-top: 2%;
+  padding: 1px
+}
